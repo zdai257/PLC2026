@@ -29,7 +29,8 @@
 		"AdaCore.ada",
 		"golang.Go",
 		"mattn.lisp",
-		"dramforever.vscode-ghc-simple"
+		"dramforever.vscode-ghc-simple",
+		"rust-lang.rust-analyzer"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
